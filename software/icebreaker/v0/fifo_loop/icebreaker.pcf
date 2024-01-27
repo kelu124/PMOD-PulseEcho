@@ -1,0 +1,15 @@
+set_io -nowarn D[0] 6
+set_io -nowarn D[1] 9
+set_io -nowarn D[2] 18
+set_io -nowarn D[3] 19
+set_io -nowarn D[4] 20
+set_io -nowarn D[5] 21
+set_io -nowarn D[6] 23
+set_io -nowarn D[7] 25
+
+set_io -nowarn RXFn 26
+set_io -nowarn TXEn 27
+set_io -nowarn RDn  11
+set_io -nowarn WRn  37
+
+set_io -nowarn adc_clk_out 4
