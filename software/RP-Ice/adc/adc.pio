@@ -21,9 +21,11 @@ push block side 0
         pio_gpio_init(pio, pin + 16);
         pio_gpio_init(pio, pin + 22);
         sm_config_set_in_pins(&c, pin);
-        sm_config_set_out_pins(&c, pin, 1);
-        pio_sm_set_consecutive_pindirs(pio, sm, pin, 1, true);
-        sm_config_set_sideset_pins(&c, pin);
+        
+        sm_config_set_out_pins(&c, pin+1, 1);
+        pio_sm_set_consecutive_pindirs(pio, sm, pin+1, 1, true);
+        sm_config_set_sideset_pins(&c, pin+1);
+        
         gpio_put(pin, false);
         sm_config_set_in_shift(&c, false, false, 32);
         sm_config_set_fifo_join(&c, PIO_FIFO_JOIN_RX);

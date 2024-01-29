@@ -1,5 +1,9 @@
 ## PMOD on top
 
+### Program
+
+https://pico-ice.tinyvision.ai/md_programming_the_mcu.html
+
 ### Matching pins to RP-ICE PMOD1 and PMOD2
 
 * nc / CLK+    -- ICE23 / ICE25 --  IO5 / IO1
