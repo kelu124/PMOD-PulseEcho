@@ -1,0 +1,13 @@
+# Target labels
+ PioasmBuild
+# Source files and their labels
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild.rule
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/CMakeFiles/PioasmBuild-complete.rule
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-build.rule
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-configure.rule
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-download.rule
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-install.rule
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-mkdir.rule
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-patch.rule
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pico-sdk/src/rp2_common/pico_cyw43_driver/pioasm/src/PioasmBuild-stamp/PioasmBuild-update.rule

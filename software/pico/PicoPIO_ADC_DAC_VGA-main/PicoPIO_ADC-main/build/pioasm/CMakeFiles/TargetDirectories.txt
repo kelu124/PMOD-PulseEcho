@@ -1,0 +1,3 @@
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pioasm/CMakeFiles/pioasm.dir
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pioasm/CMakeFiles/edit_cache.dir
+/home/kelu/ultrasound/PMOD-PulseEcho/software/pico/PicoPIO_ADC_DAC_VGA-main/PicoPIO_ADC-main/build/pioasm/CMakeFiles/rebuild_cache.dir
